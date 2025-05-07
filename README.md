@@ -1,14 +1,24 @@
 # 👋 Hi, I'm Karan Kanani
 
-🎓 MSc IT student passionate about web development and eager to build modern, scalable solutions using **PHP, JavaScript, MySQL**, and **WordPress**.
+🎓 MSc IT student | Passionate Web Developer  
+🔍 Looking for opportunities to work with PHP, WordPress, and JavaScript  
 
-🛠 Currently building real-world projects to strengthen my skills in:
-- PHP, MySQL, HTML, CSS, JavaScript
-- WordPress Plugin & Theme Development
-- Responsive UI/UX design
-- Version Control (Git)
-- Debugging and Code Optimization
+---
 
-💡 Looking for opportunities to contribute to enterprise-level web platforms and open-source WordPress projects.
+### 🛠️ Technologies & Tools
+- **Languages**: PHP, JavaScript, HTML, CSS, SQL, Java
+- **Frameworks/CMS**: WordPress, Bootstrap
+- **Database**: MySQL
+- **Tools**: Git, XAMPP, VS Code
 
-📫 How to reach me: karankanani321@gmail.com
+---
+
+### 🚀Planned Projects
+- 🗂 [Student Record System](https://github.com/KaranKanani1/student-management-system) — CRUD with PHP & MySQL  
+- 🌐 [tour-travel-management-site](https://github.com/KaranKanani1/tour-travel-management-site) — Responsive personal site
+
+---
+
+### 📬 Contact
+📧 karankanani321@gmail.com  
+📍 Based in India | Open to internships & fresher roles
